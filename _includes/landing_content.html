@@ -1,0 +1,33 @@
+<p>Welcome to my landing page! There's not much here, just where I keep my files :)</p>
+
+<h2>Of note</h2>
+<ul>
+  <li>Bachelors' and Masters' <a href="{{ '/' | relative_url }}2025/06/25/theses.html">theses</a>,</li>
+  <li>UOV <a href="{{ '/' | relative_url }}2025/06/25/uov-whitepaper.html">whitepaper</a>,</li>
+  <li><a href="{{ '/' | relative_url }}2025/06/25/fonts-colors.html">Fonts & colors</a>.</li>
+</ul>
+
+<p>For information about how this website was made, check out <a href="{{ '/' | relative_url }}2025/06/25/about-this-website.html">this post</a>.</p>
+
+<hr />
+
+<ul class="fa-ul main-list">
+  <li class="main-list-item">
+    <span class="fa-solid fa-envelope fa-lg main-list-item-icon"></span>
+    <span id="text-correu" data-usuari="xavi.aclm" data-domini="gmail.com">(email requires js)</span>
+  </li>
+  <li class="main-list-item">
+    <span class="fa-brands fa-linkedin fa-lg main-list-item-icon"></span>
+    <a href="https://www.linkedin.com/in/xavi-arnal-524256218/">LinkedIn</a>
+  </li>
+  <li class="main-list-item">
+    <span class="fa-brands fa-github fa-lg main-list-item-icon"></span>
+    <a href="https://github.com/XaviACLM">GitHub</a>
+  </li>
+</ul>
+
+<script>
+  [document.getElementById("text-correu")].forEach(elem => {
+	elem.innerHTML = elem.dataset.usuari + "@" + elem.dataset.domini;
+  });
+</script>

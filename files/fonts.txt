@@ -1,0 +1,26 @@
+usual:
+
+noto sans / noto serif
+
+more uptight (closer to helvetica / computer modern):
+
+PT sans / cormorant garamond
+
+titles:
+
+sans: Montserrat (light/black)
+loud sans: alfa slab one
+serif: DM Serif Text
+loud serif: Playfair Display (black)
+
+all the above are google fonts and thus should work anywhere, but just in case - 
+web-safe fallbacks, in the same order:
+
+verdana, georgia
+arial, times new roman
+
+there are no great options for titles, so let's just
+arial
+arial (black) or arial
+georgia
+georgia (bold) or georgia
