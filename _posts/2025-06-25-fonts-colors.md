@@ -3,15 +3,15 @@ layout: static-post
 title: Fonts, colors
 ---
 
-I keep here a list of my frequently used colors and fonts for reference &mdash; largely for myself, but feel free to take anything. This website uses #934, #eed, Noto Sans, Noto Serif, and Playfair Display Extrabold.
+I keep here a list of my frequently used colors and fonts for reference &mdash; largely for myself, but feel free to take anything. This website uses #934, #eed, Noto Sans, Noto Serif, DM Serif Text, and Playfair Display Extrabold.
 
 ### Colors
 
 This palette:
 
-![Fig. 5 of the text](/files/palette.png)
+![Fig. 5 of the text](/post_assets/palette.png)
 
-Text version [here]({{ '/' | relative_url }}files/palette.txt).
+Text version [here](/post_assets/palette.txt).
 
 ### Fonts
 
