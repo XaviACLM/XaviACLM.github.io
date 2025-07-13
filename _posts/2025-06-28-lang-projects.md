@@ -29,6 +29,6 @@ An Anki addon to highlight cards upon first contact. On [AnkiWeb](https://Ankiwe
 
 A script to transfer scheduling data between different Anki decks. Not really user-friendly at all but extremely useful about once a year or so. On [GitHub](https://github.com/XaviACLM/Anki-sched-transfer).
 
-### Tatoebator
+### Tansō
 
-In-development but already usable Anki addon. Maintains a database of 20M+ Japanese example sentences, is capable of automatically finding the relevant ones to add to your flashcards. On [GitHub](https://github.com/XaviACLM/tatoebator).
+In-development but already usable Anki addon. Maintains a database of 20M+ Japanese example sentences, is capable of automatically finding the relevant examples to add to your flashcards. On [GitHub](https://github.com/XaviACLM/tanso).

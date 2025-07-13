@@ -5,11 +5,11 @@ title: Code & Tools
 
 A few tools and projects I've put together. Most everything here is 2-10K LOC, fairly polished, explained more in depth in their readmes - only blurbs here.
 
-### Tatoebator
+### Tansō
 
-> **Tatoebator** is an anki addon for sentence mining and flashcard generation, designed to make japanese learning more natural, more contextual, and less of a chore. It integrates with Anki to automatically enrich your flashcards with example sentences, clean audio, and dictionary definitions, all drawn from a carefully curated and properly licensed database of over 20 million multilingual sentence pairs.
+> **Tansō** is an anki addon for sentence mining and flashcard generation, designed to make japanese learning more natural, more contextual, and less of a chore. It integrates with Anki to automatically enrich your flashcards with example sentences, clean audio, and dictionary definitions, all drawn from a carefully curated and properly licensed database of over 20 million multilingual sentence pairs.
 
-On [Github](https://github.com/XaviACLM/tatoebator). Feature-complete, but development on hold.
+On [Github](https://github.com/XaviACLM/tanso). Feature-complete, development on hold.
 
 ### resonant
 
