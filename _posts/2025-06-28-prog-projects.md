@@ -11,9 +11,15 @@ A few tools and projects I've put together. Most everything here is 2-10K LOC, f
 
 On [Github](https://github.com/XaviACLM/tanso). Feature-complete, development on hold.
 
+### planets
+
+> **Tansō** is an anki addon for sentence mining and flashcard generation, designed to make japanese learning more natural, more contextual, and less of a chore. It integrates with Anki to automatically enrich your flashcards with example sentences, clean audio, and dictionary definitions, all drawn from a carefully curated and properly licensed database of over 20 million multilingual sentence pairs.
+
+On [Github](https://github.com/XaviACLM/planets), also deployed [on this website](https://xaviaclm.github.io/planets/). Usable, but there's a lot more I want to add.
+
 ### resonant
 
-> **resonant** is a tool for generating emotionally coherent playlists (/trees) by analyzing the affective properties of your music. It ingests songs (automatically pulled from your YouTube likes/history), tags and downloads them with metadata and cover art, and computes vector embeddings representing their affective feel. A webui uses this data to build playlists that help you explore your library and surface forgotten favorites.
+> **Planets** is an astrology website. Its main selling points are that it looks neat and has more configuration options than anyone could possibly need.
 
 On [Github](https://github.com/XaviACLM/resonant). Complete, open to expansion.
 
