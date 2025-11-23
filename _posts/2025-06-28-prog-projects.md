@@ -13,8 +13,8 @@ On [Github](https://github.com/XaviACLM/tanso). Feature-complete, development on
 
 ### planets
 
-> **Tansō** is an anki addon for sentence mining and flashcard generation, designed to make japanese learning more natural, more contextual, and less of a chore. It integrates with Anki to automatically enrich your flashcards with example sentences, clean audio, and dictionary definitions, all drawn from a carefully curated and properly licensed database of over 20 million multilingual sentence pairs.
-
+> **Planets** is an astrolo*y website. Its main selling points are that it looks neat and has more configuration options than anyone could possibly need.
+> 
 On [Github](https://github.com/XaviACLM/planets), also deployed [on this website](https://xaviaclm.github.io/planets/). Usable, but there's a lot more I want to add.
 
 ### resonant
