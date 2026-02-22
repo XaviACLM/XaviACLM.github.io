@@ -15,7 +15,7 @@ On [Github](https://github.com/XaviACLM/tanso). Feature-complete, development on
 
 > **Planets** is an astrology website. Its main selling points are that it looks neat and has more configuration options than anyone could possibly need.
 
-On [Github](https://github.com/XaviACLM/planets/event), also deployed [on this website](https://xaviaclm.github.io/planets/). Usable, but there's a lot more I want to add.
+On [Github](https://github.com/XaviACLM/planets), also deployed [on this website](https://xaviaclm.github.io/planets/event). Usable, but there's a lot more I want to add.
 
 ### resonant
 
