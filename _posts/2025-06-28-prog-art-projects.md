@@ -9,6 +9,18 @@ title: Misc mini-projects
 
 A graphical tool for drawing metro maps. The interface can be a bit opaque, since this is designed to have exactly the tools that I want from it - it's actually the seventh iteration of a long-running project. Although it can be used as one, this isn't really meant as an utility tool, rather I only made the maps because I think they look nice - I have a few of them printed out. Code [here](/post_assets/metro_tk_editor.7z).
 
+### Wikiart -> Anki
+
+![Wikiart -> Anki screengrab](/post_assets/wikiart_anki_screenshot.png)
+
+Chrome addon to effortlessly make anki cards with data from wikiart. Requires ankiconnect, configurable field mapping and everything. Very minimal project for personal use. Code on [GitHub](https://github.com/XaviACLM/wikiart-anki), the addon itself waiting for approval to go on the Chrome Web Store.
+
+### ISSPISS
+
+![Isspiss screengrab](/post_assets/isspiss_screenshot.png)
+
+A website that tells you whether someone is currently pissing on the ISS, live @ [isspiss.com](isspiss.com). Very silly small side-project but made with a lot of love (and the help of my friend [Marcel Vilasís](https://www.linkedin.com/in/marcel-vilasis-gasulla/)). There's a lot of these joke websites using the ISS data stream, but to my knowledge this is the only one that actually has a minimally robust piss event detection backend. Code on [github](https://github.com/XaviACLM/isspiss).
+
 ### Icosahedron worldmap
 
 ![Dymaxion](/post_assets/dymaxion.png)
