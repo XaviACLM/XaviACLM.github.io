@@ -129,7 +129,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 48rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -138,7 +138,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
-    margin-right: 4rem;
+    margin-right: 6rem;
   }
 }
 
@@ -254,8 +254,8 @@ a.sidebar-nav-item:focus {
 .theme-base-xavo .sidebar {
   background-color: #934;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
+.theme-base-xavo .content a,
+.theme-base-xavo .related-posts li a:hover {
   color: #934;
 }
 
