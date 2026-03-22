@@ -19,7 +19,7 @@ Chrome addon to effortlessly make anki cards with data from wikiart. Requires an
 
 ![Isspiss screengrab](/post_assets/isspiss_screenshot.png)
 
-A website that tells you whether someone is currently pissing on the ISS, live @ [isspiss.com](isspiss.com). Very silly small side-project but made with a lot of love (and the help of my friend [Marcel Vilasís](https://www.linkedin.com/in/marcel-vilasis-gasulla/)). There's a lot of these joke websites using the ISS data stream, but to my knowledge this is the only one that actually has a minimally robust piss event detection backend. Code on [github](https://github.com/XaviACLM/isspiss).
+A website that tells you whether someone is currently pissing on the ISS, live @ [isspiss.com](https://isspiss.com/). Very silly small side-project but made with a lot of love (and the help of my friend [Marcel Vilasís](https://www.linkedin.com/in/marcel-vilasis-gasulla/)). There's a lot of these joke websites using the ISS data stream, but to my knowledge this is the only one that actually has a minimally robust piss event detection backend. Code on [github](https://github.com/XaviACLM/isspiss).
 
 ### Icosahedron worldmap
 
