@@ -13,7 +13,7 @@ A graphical tool for drawing metro maps. The interface can be a bit opaque, sinc
 
 ![Wikiart -> Anki screengrab](/post_assets/wikiart_anki_screenshot.png)
 
-Chrome addon to effortlessly make anki cards with data from wikiart. Requires ankiconnect, configurable field mapping and everything. Very minimal project for personal use. Code on [GitHub](https://github.com/XaviACLM/wikiart-anki), the addon itself waiting for approval to go on the Chrome Web Store.
+Chrome addon to effortlessly make anki cards with data from wikiart. Requires ankiconnect, configurable field mapping and everything. Very minimal project for personal use. On the [Chrome Web Store](https://chromewebstore.google.com/detail/wikiart-%E2%86%92-anki/pmmbmlflehocjkfmiiffpgibkpogbpkg), code on [GitHub](https://github.com/XaviACLM/wikiart-anki).
 
 ### ISSPISS
 
